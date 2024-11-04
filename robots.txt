@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyugaeco.github.io/AZW/sitemap_index.txt
+Sitemap: https://eyugaeco.github.io/Eim/sitemap_index.txt
+Sitemap: https://eyugaeco.github.io/GMe/sitemap_index.txt
+Sitemap: https://eyugaeco.github.io/bGI/sitemap_index.txt
